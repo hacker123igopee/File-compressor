@@ -40,7 +40,7 @@ const FileCompressor = () => {
 
   return (
     <div>
-      <h2>File Compressor</h2>
+      <h2>FEED ME!</h2>
       <input type="file" multiple onChange={handleFileChange} />
       <button onClick={compressFiles}>Compress Files</button>
       <animated.div style={eatingAnimation} className="monster">

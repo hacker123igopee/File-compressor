@@ -20,3 +20,14 @@ button {
   padding: 10px 20px;
   font-size: 16px;
 }
+
+.monster {
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+.poop {
+  font-size: 2em;
+  margin: 20px 0;
+  opacity: 0;
+}
